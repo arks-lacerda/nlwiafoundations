@@ -1,11 +1,12 @@
 <p align="center">
-Aplicação construída no NLW AI da Rocketseat na trilha Foundations.
+Application built on Rocketseat's NLW AI on the Foundations track.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+  <a href="#-my-linkedin">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -15,20 +16,20 @@ Aplicação construída no NLW AI da Rocketseat na trilha Foundations.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview of the developed project" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-## 💻 Projeto
+## 💻 Project
 
-Shorts Summary é uma aplicação web para criar resumo de vídeos shorts do YouTube utilizando Inteligência Artificial para transcrever o conteúdo do vídeo e realizar o resumo do conteúdo. Esse projeto é desenvolvido na trilha Foundations na edição NLW IA.
+Shorts Summary is a web application to create a summary of YouTube short videos using Artificial Intelligence to transcribe the video content and summarize the content. This project is developed in the Foundations track in the NLW IA edition.
 
 ## 📝 License
 
