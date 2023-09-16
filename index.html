@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Preconnect Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta charset="UTF-8" />
+
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Google Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>Shorts Summary</title>
+  </head>
+  <body>
+    <div id="app">
+      <img src="/logo.svg" alt="Logo Image" />
+      <h1>Shorts Summary</h1>
+
+      <form action="" id="form">
+        <input type="url" id="url" placeholder="URL of the video" />
+        <button title="Sum up">
+          <i class="ph ph-play"></i>
+        </button>
+      </form>
+
+      <h2>Summary</h2>
+      <p id="content-summary" class="placeholder">
+        The summary is being generated. Wait...
+      </p>
+
+      <h2>Transcription</h2>
+      <p id="content-transcription" class="placeholder">
+        The transcription is being generated. Wait...
+      </p>
+    </div>
+    <script type="module" src="./web/main.js"></script>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  </body>
+</html>
